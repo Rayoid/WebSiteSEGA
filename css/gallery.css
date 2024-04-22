@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'SEGA';
+	src: url('/WebSiteSEGA/font/SEGA.TTF');
+	}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'SEGA';
+    margin: 0;
+}
